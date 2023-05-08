@@ -3,12 +3,12 @@
 	"plugins": [
 		{
 			"id": "ThePirateBay",
-			"version": "0.2.8",
+			"version": "0.2.7",
 			"type": "ecmascript",
 			"author": "HackZy",
 			"showtimeVersion": "4.8",
 			"title": "ThePirateBay",
-			"synopsis": "zona ru",
+			"synopsis": "ThePirateBay Plugin",
 			"description": "<p><p>",
 			"homepage": "https://github.com/HackZy01/movian-thepiratebay/",
 			"category": "video",
